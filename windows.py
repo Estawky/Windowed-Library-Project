@@ -1,5 +1,5 @@
 from tkinter import *
-from tkinter import tt
+from tkinter import ttk
 from tkinter.messagebox import showerror, showinfo
 
 import datetime

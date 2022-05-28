@@ -1,4 +1,4 @@
-import sqlite3 as sql
+import sqlite3 as sq
 import pickle
 
 import books

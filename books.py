@@ -1,4 +1,4 @@
-import sqlite3 as sq
+import sqlite3 as sql
 import pickle
 import datetime
 import os

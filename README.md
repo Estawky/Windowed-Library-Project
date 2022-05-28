@@ -3,7 +3,7 @@
 
 Tkinter ve Python kullanılarak hazırlanmıştır.
 
-Soru ve Hatalar için:
+Soru ve Hatalar için
 Discord: Estawky#1337
 
 coded by @Estawky and @yesilOguz
